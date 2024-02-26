@@ -9,5 +9,6 @@
 6) Запускаю ansible скрипт
    <br>sudo ansible-playbook playbook.yaml
 7) проверяю работу скрипта, открывая в браузере 127.0.0.1
-![Screenshot from 2024-02-20 23-41-51](https://github.com/Bjegsad/ansible_proj/assets/91281150/d8684f1b-8454-4523-a9fa-77a22faf08f1)
+![image](https://github.com/Bjegsad/ansible_1/assets/91281150/475f2911-65be-4b62-9003-ff5202d62013)
+
 8) Пуш на гит
